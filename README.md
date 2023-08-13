@@ -17,4 +17,11 @@ Visual Studio Code
  Before using icons in website we have to link font awesome to our code,we use:
  Go to,https://cdnjs.com/libraries/font-awesome/4.7.0
 
- then
+ ![Screenshot (39)](https://github.com/Namrathak11/Amazon_landing_page_clone/assets/135998029/41fe1e46-b8f8-4623-be0a-9ca2b0090c0b)
+
+ then copy the link tag as shown in the above image
+ Google drive of images used in this repository:
+ 
+ https://drive.google.com/drive/folders/1ZONgcRcuQOUpLu8XlrYskKYhjrW0QDIl?usp=sharing
+
+ Thank You
