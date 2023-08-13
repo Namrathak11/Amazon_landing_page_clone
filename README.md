@@ -26,10 +26,15 @@ Visual Studio Code
 
  Final website look likes this:
 
+![Screenshot (43)](https://github.com/Namrathak11/Amazon_landing_page_clone/assets/135998029/11359c75-8958-4727-9e7c-5972745e24f9)
 
 
 
+![Screenshot (44)](https://github.com/Namrathak11/Amazon_landing_page_clone/assets/135998029/6df962cf-a3cd-4a7d-9b62-389546265f7e)
 
+
+
+![Screenshot (45)](https://github.com/Namrathak11/Amazon_landing_page_clone/assets/135998029/2eb89d20-25b8-4759-bdb3-01ea530540a4)
 
 
  Thank You
